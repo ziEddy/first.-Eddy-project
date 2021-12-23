@@ -46,9 +46,21 @@
 
 # print_seconds(3600, 60, 1)
 
-def greeting(name, menu, when):
-    print("user name is " + name)
-    print("My favorite is " + menu)
-    print("why " + when)
+# def greeting(name, menu, when):
+#     print("user name is " + name)
+#     print("My favorite is " + menu)
+#     print("why " + when)
 
-greeting("Eddy", "Kimchi", "beacause")
+# greeting("Eddy", "Kimchi", "beacause")
+
+# print(55//3)
+
+def example(name,who):
+    print("Welcome to world " + name)
+    print("Who are you " + who)
+
+# result = example("Eddy")
+# print(result)
+# result = example("ediya")
+example("Eddy", "nope")
+result = example("Min", "Lee")
